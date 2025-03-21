@@ -79,7 +79,6 @@ streamlit run main.py
 ## 📜 License
 This project is for educational and research purposes.
 
----
 👨‍💻 Developed for real-time water quality monitoring using deep learning and Streamlit.
 
 ---
