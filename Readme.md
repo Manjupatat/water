@@ -66,7 +66,14 @@ WaterQualityMonitoring/
   ```bash
   pip install -r requirements.txt
   ```
-- **Dataset Not Found?** Ensure `Ponds.csv` is inside the `data/` folder.
+
+### 5️⃣ Run the App
+```sh
+streamlit run main.py
+```
+
+  
+- **Dataset Not Found?** Ensure `testing.csv` is inside the `data/` folder.
 - **Streamlit App Not Running?** Verify Python version (`python --version`).
 
 ## 📜 License
@@ -75,4 +82,16 @@ This project is for educational and research purposes.
 ---
 👨‍💻 Developed for real-time water quality monitoring using deep learning and Streamlit.
 
+---
 
+## 💡 Contributing
+Feel free to submit PRs, open issues, and contribute to making this bot even better! 😊
+
+---
+
+## 📞 Contact +91 - 8971812177
+For any queries or suggestions, reach out to:  
+📧 **Email**: manjupatat80@gmail.com  
+🐙 **GitHub**: [Manjunath L Patat](https://github.com/Manjupatat)
+
+**Contributor**: [@Revanth Sharma M](https://github.com/RevanthSharmaM)  contributed to this.
