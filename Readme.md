@@ -67,11 +67,18 @@ WaterQualityMonitoring/
   pip install -r requirements.txt
   ```
 
-### 5️⃣ Run the App
+### Run the App
 ```sh
 streamlit run main.py
 ```
 
+---
+
+🎥 Live Demo
+
+Check out the live demo: [Water Quality monitoring](https://water-quality-monitoring.streamlit.app/)
+
+---
   
 - **Dataset Not Found?** Ensure `testing.csv` is inside the `data/` folder.
 - **Streamlit App Not Running?** Verify Python version (`python --version`).
