@@ -37,7 +37,7 @@ WaterQualityMonitoring/
    ```bash
    python -m venv env
    source env/bin/activate  # On macOS/Linux
-   env\Scripts\ctivate     # On Windows
+   env\Scripts\activate     # On Windows
    ```
 
 3. **Install required dependencies**  
