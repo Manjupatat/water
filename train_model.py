@@ -76,7 +76,7 @@ def train_and_save_model(file_path='data/training.csv', model_save_path='model/t
     model = build_model(input_shape=(X.shape[1], 1))
 
     # Train the model
-    model.fit(X_train, y_train, validation_split=0.2, epochs=5000, batch_size=32, verbose=1)
+    model.fit(X_train, y_train, validation_split=0.2, epochs=20, batch_size=32, verbose=1)
 
     # Save the model
     model.save(model_save_path)
